@@ -23,7 +23,7 @@ El código fuente ha sido desarrollado por Comercia Global Payments para facilit
 
 ## Documentación y ejemplos
 
-Puede encontrar una documentación adaptada al envío de operaciones por remoto y por redirección, ejecutando el archivo "index.html" desde su servidor.
+Puede encontrar una documentación adaptada al envío de operaciones por remoto, ejecutando el archivo "index.html" desde su servidor.
 
 Este archivo se encuentra dentro de la carpeta ["test"](https://github.com/AddonPayments/applepay-js/tree/master/test) del repositorio GitHub. Si lo prefiere, también puede ver nuestra documentación oficial en la página web de desarrolladores de [Addon Payments](https://desarrolladores.addonpayments.com) donde encontrará además tarjetas con las que realizar pruebas de compra y el resto de librerías disponibles.
 
